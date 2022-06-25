@@ -1,0 +1,27 @@
+ul {
+    border: 1px solid black;
+}
+li {
+    margin-bottom: 1rem;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+.name {
+    font-weight: bold;
+}
+#scientists {
+    display: flex;
+    flex-flow: row wrap;
+ 
+}
+#scientists li {
+    flex-basis: 33%;
+}

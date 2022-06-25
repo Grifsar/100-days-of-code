@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: June 25, 2022
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Just some Javascript practice involving an array of objects and printing it out to the page. I'll likely use this to practice other array methods. I put in very basic CSS even though that's NOT The point of this
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I honestly wish I was faster at this, but I've never had a JS heavy job before and haven't so I haven't used it on a consistent basis so I'm trying to cut myself some slack. If I need a break from the JS, I may add better styles to some point or introduce something like Tailwind to the project.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** See day1 folder
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
