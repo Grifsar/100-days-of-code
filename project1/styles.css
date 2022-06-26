@@ -17,11 +17,11 @@ main {
 .name {
     font-weight: bold;
 }
-#scientists {
+/* #scientists {
     display: flex;
     flex-flow: row wrap;
  
 }
 #scientists li {
     flex-basis: 33%;
-}
+} */

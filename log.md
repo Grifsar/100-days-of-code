@@ -7,5 +7,14 @@
 
 **Thoughts:** I honestly wish I was faster at this, but I've never had a JS heavy job before and haven't so I haven't used it on a consistent basis so I'm trying to cut myself some slack. If I need a break from the JS, I may add better styles to some point or introduce something like Tailwind to the project.
 
-**Link to work:** See day1 folder
+**Link to work:** See project1 folder
+
+### Day 2: June 26, 2022
+
+
+**Today's Progress**: More Javascript practice - this time focusing on adding event listeners, working with custom data, and basic sorting.
+
+**Thoughts:** A couple of these things I'm practicing tripped me up on an assessment I took not that long ago so I've been meaning to practice these more for a while now
+
+**Link to work:** See project1 folder
 
