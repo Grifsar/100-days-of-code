@@ -18,3 +18,13 @@
 
 **Link to work:** See project1 folder
 
+
+
+### Day 3: June 27, 2022
+
+
+**Today's Progress**: Started a second project for practicing with APIs. The first project is done unless I decide to go back and style it
+
+**Thoughts:** I'm into astronomy so the Nasa apis seemed like a good one to work with. I'll admit it feels a little put the api key in the repo like this. I may need refresh myself on the best ways to protect an api in javascript. It was also good to get practice with using the `${js code here}` syntax as that was introduced after I first learned web development
+
+**Link to work:** See project2 folder
