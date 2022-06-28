@@ -28,3 +28,13 @@
 **Thoughts:** I'm into astronomy so the Nasa apis seemed like a good one to work with. I'll admit it feels a little put the api key in the repo like this. I may need refresh myself on the best ways to protect an api in javascript. It was also good to get practice with using the `${js code here}` syntax as that was introduced after I first learned web development
 
 **Link to work:** See project2 folder
+
+
+### Day 4: June 27, 2022
+
+
+**Today's Progress**: Added a date picker and set a range to it for the photo of the day function. I also started working on a random date function
+
+**Thoughts:** Adding the date picker went fairly smoothly, but the random date function is taking a little bit longer. I do think it's a good exercise in working with dates, especially because I'm trying to limit it to the same range as the date picker to avoid invalid images
+
+**Link to work:** See project2 folder
