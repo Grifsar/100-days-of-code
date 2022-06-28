@@ -30,7 +30,7 @@
 **Link to work:** See project2 folder
 
 
-### Day 4: June 27, 2022
+### Day 4: June 28, 2022
 
 
 **Today's Progress**: Added a date picker and set a range to it for the photo of the day function. I also started working on a random date function
