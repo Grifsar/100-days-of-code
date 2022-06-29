@@ -38,3 +38,12 @@
 **Thoughts:** Adding the date picker went fairly smoothly, but the random date function is taking a little bit longer. I do think it's a good exercise in working with dates, especially because I'm trying to limit it to the same range as the date picker to avoid invalid images
 
 **Link to work:** See project2 folder
+
+### Day 5: June 29, 2022
+
+
+**Today's Progress**: Fixed the random function and added a button to the page to call it. I still need to add some error handling for the response codes
+
+**Thoughts:** It didn't take too long to get the random function up and running - I actually thought of a way to do it shortly after I stepped away from this project yesterday. I need to look into how to handle responses from the REST api for when I make a bad request. Pretty sure I've done this before, but it's been a while. 
+
+**Link to work:** See project2 folder
