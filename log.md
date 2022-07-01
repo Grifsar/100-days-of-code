@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 25, 2022
 
+### Day 1: June 25, 2022
 
 **Today's Progress**: Just some Javascript practice involving an array of objects and printing it out to the page. I'll likely use this to practice other array methods. I put in very basic CSS even though that's NOT The point of this
 
@@ -9,8 +9,8 @@
 
 **Link to work:** See project1 folder
 
-### Day 2: June 26, 2022
 
+### Day 2: June 26, 2022
 
 **Today's Progress**: More Javascript practice - this time focusing on adding event listeners, working with custom data, and basic sorting.
 
@@ -19,9 +19,7 @@
 **Link to work:** See project1 folder
 
 
-
 ### Day 3: June 27, 2022
-
 
 **Today's Progress**: Started a second project for practicing with APIs. The first project is done unless I decide to go back and style it
 
@@ -32,15 +30,14 @@
 
 ### Day 4: June 28, 2022
 
-
 **Today's Progress**: Added a date picker and set a range to it for the photo of the day function. I also started working on a random date function
 
 **Thoughts:** Adding the date picker went fairly smoothly, but the random date function is taking a little bit longer. I do think it's a good exercise in working with dates, especially because I'm trying to limit it to the same range as the date picker to avoid invalid images
 
 **Link to work:** See project2 folder
 
-### Day 5: June 29, 2022
 
+### Day 5: June 29, 2022
 
 **Today's Progress**: Fixed the random function and added a button to the page to call it. I still need to add some error handling for the response codes
 
@@ -48,11 +45,19 @@
 
 **Link to work:** See project2 folder
 
+
 ### Day 6: June 30, 2022
 
-
-**Today's Progress**: Some light error handling, mostly just giving the user a message when something goes wrong. I also added more comments and styles. Realized that the 
+**Today's Progress**: Some light error handling, mostly just giving the user a message when something goes wrong. I also added more comments and styles. 
 
 **Thoughts:** I was feeling kind of down today and so I ended up focusing more on adding a little bit more styles and comments. I need to figure out what I want to do for the next project. I think I need a bit more practice before I switch over to practicing with one of the major JS frameworks. I also need to decide with framework to focus on as I'm a bit more familiar with Angular, but I get the feeling that there are more React jobs out there.
 
 **Link to work:** See project1 and project2 folders
+
+### Day 7: July 1, 2022
+
+**Today's Progress**:  Just some string review and practice
+
+**Thoughts:** I'm starting think that one of the harder parts of this challenge is going to be picking projects to do for it. There are, obviously, lots of options out there. My main goal with this is to work more with Javascript so I don't actually feel too bad about how today went
+
+**Link to work:** Project 3
