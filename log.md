@@ -47,3 +47,12 @@
 **Thoughts:** It didn't take too long to get the random function up and running - I actually thought of a way to do it shortly after I stepped away from this project yesterday. I need to look into how to handle responses from the REST api for when I make a bad request. Pretty sure I've done this before, but it's been a while. 
 
 **Link to work:** See project2 folder
+
+### Day 6: June 30, 2022
+
+
+**Today's Progress**: Some light error handling, mostly just giving the user a message when something goes wrong. I also added more comments and styles. Realized that the 
+
+**Thoughts:** I was feeling kind of down today and so I ended up focusing more on adding a little bit more styles and comments. I need to figure out what I want to do for the next project. I think I need a bit more practice before I switch over to practicing with one of the major JS frameworks. I also need to decide with framework to focus on as I'm a bit more familiar with Angular, but I get the feeling that there are more React jobs out there.
+
+**Link to work:** See project1 and project2 folders

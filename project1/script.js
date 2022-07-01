@@ -60,7 +60,7 @@ const scientists = [
         "died": 9999,
     }
 ]
-//grabs the DOM element that will discplay the scientists
+//grabs the DOM element that will display the scientists
 const scientistsContainer = document.getElementById('scientists');
 //helper function for display scientists - this could really be in the same function...
 function addScientist(scientist) {
@@ -75,6 +75,7 @@ function displayScientists(scientistList) {
     if(scientistsContainer.hasChildNodes){
         scientistsContainer.innerHTML = "";
     }
+    //goes through the list of scientists and displays them
     scientistList.forEach(scientist => {
         addScientist(scientist);
     });

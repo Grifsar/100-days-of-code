@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,23 +8,24 @@
     <title>Document</title>
     <link rel="stylesheet" href="./styles.css">
 </head>
+
 <body>
     <main>
-        <h1>Nasa API Experiments</h1>
-        <div class="card">
+        <div class="container">
+            <h1>Nasa API Experiments</h1>
             <h2>Photo of the day</h2>
             <!-- 03/12/2012 -->
-            <div class="container-btns">
-                <label for="photoDay"><p>Pick a date between June 20th, 1995 and today to display the photo for that day</p></label>
+            <menu class="container-btns">
+                <label for="photoDay">
+                    <p>Pick a date between June 20th, 1995 and today to display the photo for that day</p>
+                </label>
                 <input type="date" name="photoDay" id="photoDay" min="1995-06-20">
                 <button id="btn-randomPhoto">Get Random Photo</button>
-            </div>
-
-            <div id="container-photoDay">
-
-            </div>
+            </menu>
         </div>
+        <div id="container-photoDay"></div>
     </main>
     <script src="./script.js"></script>
 </body>
+
 </html>

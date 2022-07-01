@@ -2,19 +2,36 @@
 html {
     font-size: 10px;
     font-family: 'Space Grotesk', Helvetica, sans-serif;
+    background-color: black;
+}
+body {
+    margin: 0;
+}
+main {
+    max-width: 100%;
+    width: 1200px;
+    margin: 50px auto;
+    background-color: white;
 }
 button {
     font-family: 'Space Grotesk', Helvetica, sans-serif;
     font-weight: bold;
+    margin-left: 2rem;
 }
 img {
     max-width: 100%;
+    vertical-align: middle; /*gets rid of space under image - this is what I get for not using a reset */
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0;
 }
 h1 {
     font-size: 3.5rem;
+    margin-bottom: 1.5rem;
 }
 h2 {
     font-size: 3rem;
+    margin-bottom: 1.5rem;
 }
 h3 {
     font-size: 2rem;
@@ -22,4 +39,14 @@ h3 {
 
 p {
     font-size: 1.5rem;
+}
+.txt-danger {
+    color: rgb(179, 8, 8);
+}
+.container {
+    padding: 20px;
+}
+menu.container-btns {
+    margin: 0;
+    padding: 0;
 }
