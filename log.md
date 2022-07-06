@@ -61,3 +61,13 @@
 **Thoughts:** I'm starting think that one of the harder parts of this challenge is going to be picking projects to do for it. There are, obviously, lots of options out there. My main goal with this is to work more with Javascript so I don't actually feel too bad about how today went
 
 **Link to work:** Project 3
+
+### Day 8: July 6, 2022
+
+**Today's Progress**:  Started on a project to practice React with
+
+**Thoughts:** I decided to try to redo my Nasa photo of the day project as a React app. React is something that I've taken tutorials on, but haven't done a project on my own with just yet so this seems like a good practice project for me. I also decided to try out Tailwind CSS while I was at it because I've crash coursed it before but haven't used in a project proper.
+
+I did miss a few days as between being unemployed and the general state of the world my mental health hasn't bee the best, but I'm back to continue this project.
+
+**Link to work:** https://github.com/Grifsar/react-nasaphoto
