@@ -87,3 +87,11 @@ I did miss a few days as between being unemployed and the general state of the w
 **Thoughts:** I didn't get as far as I'd like to on the error handling in this. It looks like I'm going to need to dig a bit more into how conditionals work in React and may need to do some refactoring
 
 **Link to work:** https://github.com/Grifsar/react-nasaphoto
+
+### Day 11: July 9, 2022
+
+**Today's Progress**: Added error handling - started looking into deploying this to a subdirectory on Netlify
+
+**Thoughts:** Figured out the issue with the if statement within minutes of starting to program today and it was just a syntax error. It looks like it's more common to use the drag and drop feature to deploy react apps to Netlify, but I have an existing site and I want to be able to have multiple react apps under the same domain but in different directories
+
+**Link to work:** https://github.com/Grifsar/react-nasaphoto
