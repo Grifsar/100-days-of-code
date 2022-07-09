@@ -79,3 +79,11 @@ I did miss a few days as between being unemployed and the general state of the w
 **Thoughts:** I still have a little ways to go before this has all the functions of the original version, and there are some extra features that I want add as well. I think I'll be able to get the rest of the original features in during tomorrow's 1 hour session. I think this has been a good exercise thus far. I may dedicate more than an to this tomorrow and get a bit more serious about the styles.
 
 **Link to work:** https://github.com/Grifsar/react-nasaphoto
+
+### Day 10: July 8, 2022
+
+**Today's Progress**:  Implemented random photo and added more styles using Tailwind. 
+
+**Thoughts:** I didn't get as far as I'd like to on the error handling in this. It looks like I'm going to need to dig a bit more into how conditionals work in React and may need to do some refactoring
+
+**Link to work:** https://github.com/Grifsar/react-nasaphoto
