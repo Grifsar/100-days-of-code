@@ -95,3 +95,11 @@ I did miss a few days as between being unemployed and the general state of the w
 **Thoughts:** Figured out the issue with the if statement within minutes of starting to program today and it was just a syntax error. It looks like it's more common to use the drag and drop feature to deploy react apps to Netlify, but I have an existing site and I want to be able to have multiple react apps under the same domain but in different directories
 
 **Link to work:** https://github.com/Grifsar/react-nasaphoto
+
+### Day 12: July 11, 2022
+
+**Today's Progress**: Managed to get react app deployed to a Netlify app, still working to proxy it to my main site
+
+**Thoughts:** One suggestion I saw for getting a react app working in a sub directory on a Netlify site was to put it on its own Netlify site. I was able to get that up and working, but something seems to have gone wrong when I to proxy it to https://sarah-griffiths.com/react-nasaphoto/ as the app continues to try and pull the files from the root of my main site. I'm hoping that I just need to work a bit more with the settings or something. I'm also shifting from a hard 1 hour limit, to just trying to spend a good chunk the afternoon working on portfolio stuff and coding while I"m unemployed.
+
+**Link to work:** https://grand-croissant-0ed792.netlify.app
