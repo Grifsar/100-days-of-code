@@ -102,4 +102,12 @@ I did miss a few days as between being unemployed and the general state of the w
 
 **Thoughts:** One suggestion I saw for getting a react app working in a sub directory on a Netlify site was to put it on its own Netlify site. I was able to get that up and working, but something seems to have gone wrong when I to proxy it to https://sarah-griffiths.com/react-nasaphoto/ as the app continues to try and pull the files from the root of my main site. I'm hoping that I just need to work a bit more with the settings or something. I'm also shifting from a hard 1 hour limit, to just trying to spend a good chunk the afternoon working on portfolio stuff and coding while I"m unemployed.
 
-**Link to work:** https://grand-croissant-0ed792.netlify.app
+**Link to work:** https://grand-croissant-0ed792.netlify.app now at https://sarah-griffiths.com/react-nasaphoto/
+
+### Day 13: July 13, 2022
+
+**Today's Progress**: Finally got the react app to proxy to my main site, updated error handling and styles a bit
+
+**Thoughts:** It took a bit to get the proxy to work correctly, as the syntax between posts I was looking at varied a bit and I had a typo or two to deal blah, but I finally got it. I think I need to look into how to secure the API key better. I'm hearing mixed things about how secure the .env file is... I still need to decide if this is good enough to put in my portfolio proper or not
+
+**Link to work:** https://sarah-griffiths.com/react-nasaphoto/
